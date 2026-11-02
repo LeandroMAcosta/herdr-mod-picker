@@ -2,6 +2,8 @@
 
 A [Herdr](https://herdr.dev) app mod: one key lists every mod you have installed, you type a few letters, and Enter opens it. The mods you use most come first, and the ones you never want to see can be hidden.
 
+![Mod Picker: cmd-shift-m, type "mark", Shift+Enter opens Markdown Reader beside the shell](demo.gif)
+
 ![Mod Picker](preview.png)
 
 ## Install
